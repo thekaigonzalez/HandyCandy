@@ -13,3 +13,5 @@ handycandy-test-*
 *.o
 *.obj
 *.lst
+unit
+lib*.a
