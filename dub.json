@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Kai Gonzalez"
+	],
+	"copyright": "Copyright © 2022, Kai Gonzalez",
+	"description": "A reimagined version of the Handy Array parser.",
+	"license": "MIT",
+	"name": "handycandy",
+	"targetType": "library"
+}

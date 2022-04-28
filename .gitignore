@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/handycandy
+handycandy.so
+handycandy.dylib
+handycandy.dll
+handycandy.a
+handycandy.lib
+handycandy-test-*
+*.exe
+*.o
+*.obj
+*.lst
