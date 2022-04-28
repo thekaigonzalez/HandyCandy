@@ -15,7 +15,9 @@ void main()
 
     handy_allow_callback(ms);
 
-    handy_parse_result(ms, "[1,2,3]");
+    handy_add_excl_char(ms, '\'', handy_charstate.stringlike);
+
+    handy_parse_result(ms, "['1,', 2,3]");
 
     writeln(ms.result);
 }

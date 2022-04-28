@@ -5,5 +5,7 @@ module hst;
 enum hand_parse_state
 {
     idle,
-    collecting
+    collecting,
+    dead,
+    ignorant
 }
